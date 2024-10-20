@@ -20,6 +20,6 @@ jobs:
     - name: lib
       run: ./configure
     - name: lib
-      run: make
+      run: make install
 
 	
